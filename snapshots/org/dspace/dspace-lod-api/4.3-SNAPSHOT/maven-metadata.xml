@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.dspace</groupId>
+  <artifactId>dspace-lod-api</artifactId>
+  <version>4.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140917.064325</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140917064325</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.3-20140917.064325-1</value>
+        <updated>20140917064325</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3-20140917.064325-1</value>
+        <updated>20140917064325</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
